@@ -1,0 +1,2 @@
+# texworks
+TeXworks configuration
