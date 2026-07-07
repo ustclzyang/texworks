@@ -1,0 +1,14 @@
+%%!TEX encoding = UTF-8 Unicode
+scr:=\mathscr{#INS#}
+mf:=\mathfrak{#INS#}
+part:=\partial
+lan:=\langle #INS# \rangle •
+left:=\left( #INS# \right) •
+xk:=\kappa
+sb:=\symbf{#INS#}
+ket:=| #INS#\rangle •
+bra:=\langle #INS#| •
+upa:=\uparrow
+dw:=\downarrow
+pr:=\prime
+ti:=\tilde{#INS#}
